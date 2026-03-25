@@ -1,0 +1,51 @@
+breed_id,breed_name,heat_tolerance,cold_tolerance,milk_yield,meat_yield,disease_resistance,feed_requirement
+100,Amritmahal,Low,High,35.6,675.4,Low,Low
+101,Bachaur,Low,High,4.5,790.5,Low,High
+102,Badri,Low,Low,5.4,455.4,Medium,High
+103,Bargur,Medium,Low,16.8,529.2,Medium,High
+104,Belahi,Medium,Medium,11.8,235.8,Low,High
+105,Binjharpuri,Medium,Low,15.5,606.4,Low,High
+106,Dagri,High,Medium,30.9,703.9,Low,Low
+107,Dangi,Medium,Low,9.4,320.9,High,Low
+108,Deoni,High,High,17.4,569.1,High,Medium
+109,Gangatiri,Low,Low,11.8,537.7,Low,Medium
+110,Gaolao,Medium,Low,25.1,457.0,Low,High
+111,Ghumusari,High,Low,18.4,779.0,Medium,Low
+112,Gir,High,Low,28.9,340.0,Low,High
+113,Hallikar,High,Medium,33.2,210.4,High,Low
+114,Hariana,Medium,Medium,31.7,229.8,Low,Low
+115,Himachali Pahari,Medium,Medium,30.2,721.7,Low,Low
+116,Kangayam,Medium,Medium,23.3,703.8,Medium,Low
+117,Kankrej,Medium,Medium,37.9,327.1,High,Low
+118,Kenkatha,High,Low,21.8,741.4,Low,Medium
+119,Khariar,Medium,Low,5.6,272.2,High,High
+120,Kherigarh,Medium,Medium,33.1,259.2,Low,Medium
+121,Khillar,Medium,Low,7.7,289.9,High,Low
+122,Kokan Kapila,High,Low,27.9,402.7,Low,High
+123,Kosali,Low,Low,7.5,667.2,Medium,Medium
+124,Krishna Valley,Low,High,6.0,320.3,Medium,High
+125,Ladakhi,Low,Low,13.8,410.8,Low,Medium
+126,Lakhimi,Medium,High,7.9,729.8,High,Medium
+127,Malnad Gidda,High,High,21.9,740.4,Low,Medium
+128,Malvi,High,High,19.9,548.2,Medium,High
+129,Mewati,Low,High,16.5,578.3,High,High
+130,Motu,High,High,34.6,232.1,Low,Low
+131,Nagori,High,Medium,31.7,619.2,Low,Medium
+132,Nari,Medium,Low,24.2,540.5,Low,Medium
+133,Nimari,Medium,Low,20.2,426.2,Medium,High
+134,Ongole,Low,Medium,27.0,724.7,High,High
+135,Ponwar,Medium,Medium,16.9,655.4,Low,High
+136,Poda Thirupu,Medium,Low,23.2,427.6,High,High
+137,Pulikulam,High,Low,35.8,526.2,Medium,High
+138,Punganur,Medium,High,21.3,286.6,High,Low
+139,Purnea,High,Low,12.2,205.1,Low,Medium
+140,Rathi,Low,Medium,37.9,262.2,Low,Medium
+141,Red Kandhari,Low,Medium,4.2,790.1,Medium,Medium
+142,Red Sindhi,Low,Medium,7.9,316.6,Medium,Low
+143,Sahiwal,Low,Medium,18.2,404.0,High,Medium
+144,Shweta Kapila,High,High,20.2,573.7,High,High
+145,Siri,Medium,Low,25.9,727.7,High,High
+146,Tharparkar,Low,Low,7.9,448.8,Low,Low
+147,Thutho,Low,Low,37.6,310.2,High,Medium
+148,Umblachery,High,Medium,21.0,318.9,High,Medium
+149,Vechur,High,Medium,20.8,410.3,Medium,Low
